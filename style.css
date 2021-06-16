@@ -1,0 +1,30 @@
+body{
+	background-image: url("https://media1.tenor.com/images/6d33e09214a661d51859c283f7e3b7f8/tenor.gif?itemid=8548097");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+	border-width:10px;
+    background-image: "";
+    background-size: cover;
+	border-style:ridge;
+}
+h1,h2{
+	color:white!important;
+}
+h4 {
+    color:white;
+}
+
+.controls
+{
+    height: 50px;
+    width: 200px;
+     background-color: coral;
+    color: white;
+    font-size: large;
+    border-radius: 45px;
+    
+    
+}
+
